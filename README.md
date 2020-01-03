@@ -1,5 +1,6 @@
 # HaxeGalaxy
 A simple galaxy simulation using the Haxe language
+
 by Peter Thelander
 
 This is just a small shockwave flash program I've written. It's like a mini-galaxy simulator.
