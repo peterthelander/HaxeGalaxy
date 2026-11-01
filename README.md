@@ -1,6 +1,20 @@
 # HaxeGalaxy
 A simple galaxy simulation using the Haxe language
 
+**Status:** historical Haxe/Flash graphics experiment, preserved as a source-code
+museum piece. It does not run in current browsers because its output targets Flash.
+
+The original source is `Main.hx`; `MyHaxeProject.hxproj` records the FlashDevelop
+project, and `MyHaxeProject.swf` is the historical compiled artifact. Rebuilding would
+require a compatible historical toolchain. No modern browser port or verified
+current build is included.
+
+The interesting thread is the camera/projection and movement experiment described
+below—an early counterpart to the newer [FTL](https://github.com/peterthelander/ftl)
+browser project.
+
+## Original project notes
+
 by Peter Thelander
 
 This is just a small shockwave flash program I've written. It's like a mini-galaxy simulator.
